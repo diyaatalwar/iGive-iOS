@@ -1,2 +1,16 @@
 # iGive-iOS
 An iOS application to connect charities/NGOs as well as verified individuals with prospective donors.
+![Simulator Screenshot - iPhone 15 Pro - 2023-11-28 at 17 33 59](https://github.com/diyaatalwar/iGive-iOS/assets/143082387/dd5a31ba-da2a-494b-aba9-97cf976ce6a3)
+![Simulator Screenshot - iPhone 15 Pro - 2023-11-28 at 17 33 21](https://github.com/diyaatalwar/iGive-iOS/assets/143082387/3351e1ce-8b59-4d4f-8395-58de0a3793a7)
+![Simulator Screenshot - iPhone 15 Pro - 2023-11-28 at 17 32 56](https://github.com/diyaatalwar/iGive-iOS/assets/143082387/fd682ebc-5d94-4c3f-8b02-7b0ddf2eea7b)
+![Simulator Screenshot - iPhone 15 Pro - 2023-11-28 at 17 32 39](https://github.com/diyaatalwar/iGive-iOS/assets/143082387/1d823303-6101-46e1-b55a-69d0a625d7c8)
+![Simulator Screenshot - iPhone 15 Pro - 2023-11-28 at 17 32 26](https://github.com/diyaatalwar/iGive-iOS/assets/143082387/bfce2ec3-e8e7-455a-8508-3d7b1ebda916)
+![Simulator Screenshot - iPhone 15 Pro - 2023-11-28 at 17 32 16](https://github.com/diyaatalwar/iGive-iOS/assets/143082387/d0828c0b-21e8-4c4e-b7a4-8db7d4aaa4d0)
+![Simulator Screenshot - iPhone 15 Pro - 2023-11-28 at 17 32 03](https://github.com/diyaatalwar/iGive-iOS/assets/143082387/9783fce5-d3fe-4527-a7ab-e8f3c5e8a214)
+![Simulator Screenshot - iPhone 15 Pro - 2023-11-28 at 17 31 42](https://github.com/diyaatalwar/iGive-iOS/assets/143082387/7d124ce2-0a2e-4dc4-9c0a-b4c3698d65ff)
+![Simulator Screenshot - iPhone 15 Pro - 2023-11-28 at 17 31 29](https://github.com/diyaatalwar/iGive-iOS/assets/143082387/3d3e0f8f-e675-4ecd-a3a9-d34835d8515b)
+![Simulator Screenshot - iPhone 15 Pro - 2023-11-28 at 17 31 16](https://github.com/diyaatalwar/iGive-iOS/assets/143082387/ad44db99-8720-4ead-b3ac-9ba5824e82e2)
+![Simulator Screenshot - iPhone 15 Pro - 2023-11-28 at 17 29 34](https://github.com/diyaatalwar/iGive-iOS/assets/143082387/57d1e2e5-712f-4fe8-92bd-f64418dd2625)
+![Simulator Screenshot - iPhone 15 Pro - 2023-11-28 at 17 29 10](https://github.com/diyaatalwar/iGive-iOS/assets/143082387/2f49d9d4-155c-45fc-ae1c-2c8cad98c4dd)
+![Simulator Screenshot - iPhone 15 Pro - 2023-11-28 at 17 28 41](https://github.com/diyaatalwar/iGive-iOS/assets/143082387/b64127c0-670d-487b-98df-58c14e0a05f3)
+![launchscreen](https://github.com/diyaatalwar/iGive-iOS/assets/143082387/062b243a-3d67-480b-912e-e52b954f1949)
